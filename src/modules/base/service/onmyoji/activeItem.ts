@@ -8,7 +8,7 @@ import { BaseOnmyojiUserEntity } from '../../entity/onmyoji/user';
 
 const userDefault = {
   'el-input': '',
-  'el-Checkbox': '1',
+  'el-Checkbox': '0',
 };
 
 /**
